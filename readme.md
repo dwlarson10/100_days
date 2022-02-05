@@ -15,7 +15,13 @@ This project is to kick off a 100 days of code project. Over the course of the n
 
 ### Tracking Progress
 
-Day 1 (2021-02-02):
+Day 1 (2022-02-02):
 - Set up Atom with Data Science tools
 - Wrote Read me.
 - Started working on project 1
+
+Day 2 (2022-02-03):
+- Started building function to pull daily crypto values
+- got Atom for Data Science fully functioning
+
+Day 3 (2022-02-03):
