@@ -25,3 +25,10 @@ Day 2 (2022-02-03):
 - got Atom for Data Science fully functioning
 
 Day 3 (2022-02-03):
+- Reading and playing with timeseries
+- Starting a summary of a single cryptocurrency
+
+Day 4-7: Made very little progress. Was unable to work on This
+
+Day 8 (2022-02-09):
+- Continued to work on basic timeseries functions
