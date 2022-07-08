@@ -2,12 +2,12 @@
 
 
 
-def crypto_function(crypto):
+def crypto_function(crypto,days=1000):
     import pandas as pd
     import yfinance as yf
     import datetime as dt
 
-    start = dt.datetime.now() - dt.timedelta(days = 365*2)
+    start = dt.datetime.now() - dt.timedelta(days = - days)
     end = dt.datetime.now()
     tmp = yf.download(crypto, start, end)
     ## Adding Moving Averages to the dataset

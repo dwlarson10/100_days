@@ -32,3 +32,13 @@ Day 4-7: Made very little progress. Was unable to work on This
 
 Day 8 (2022-02-09):
 - Continued to work on basic timeseries functions
+
+Restarting: 
+
+Day 1: (2022-06-10):
+- Start building a steamlit app that has the cryptocurrency prices
+
+Next Steps:
+1: Build out timeseries model that predicts price
+2: Build charts and rules for triggering
+3: Continue working on the streamlit app.
